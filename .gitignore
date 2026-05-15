@@ -1,0 +1,7 @@
+tfenv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+runs/
+*.pyc
+.DS_Store
