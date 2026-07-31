@@ -71,22 +71,20 @@ streamlit run app.py
 ## 📁 Project Structure
 
 ```text
-SmartVision-AI/
+SmartVision/
 │
-├── models/
-│   ├── yolo_training/
-│   ├── EfficientNetB0_best.keras
-│   ├── MobileNetV2_best.keras
-│   ├── ResNet50_best.keras
-│   ├── VGG16_best.keras
-│   ├── yolo_best.pt
-│   └── yolov8n.pt
+├── src/
+│   ├── M1_VGG16.ipynb
+│   ├── M2_ResNet50.ipynb
+│   ├── M3_MobileNetV2.ipynb
+│   ├── M4_EfficientNetB0.ipynb
+│   ├── M5_YOLO_Object.ipynb
+│   ├── Model_Comparison.ipynb
+│   └── eda.ipynb
 │
-├── notebooks/
-│
-├── .gitignore
-├── README.md
 ├── Smartvision.ipynb
-├── main.py
-└── requirements.txt
+├── Streamlit.py
+├── requirements.txt
+├── README.md
+└── .gitignore
 ```
