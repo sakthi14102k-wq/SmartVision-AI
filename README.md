@@ -83,7 +83,7 @@ SmartVision/
 │   └── eda.ipynb
 │
 ├── Smartvision.ipynb
-├── Streamlit.py
+├── SmartVision_app.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
